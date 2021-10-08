@@ -21,5 +21,6 @@ plugins:
 - id: pipeline-model-extensions
 - id: pipeline-stage-view
 - id: warnings-ng
+- id: pipeline-utility-steps
 - id: workflow-aggregator
 - id: workflow-cps-checkpoint
